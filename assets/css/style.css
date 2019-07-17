@@ -1,3 +1,14 @@
+body {
+    background-color: black;
+    color: #d9ffb3;
+    font-family: monospace;
+}
+
+.container {
+    margin: 30px;
+    font-size: 20px;
+}
+
 h1 {
-    color: orange;
+    color: #d9ffb3;
 }
